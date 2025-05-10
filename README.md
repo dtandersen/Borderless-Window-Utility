@@ -8,7 +8,7 @@ Install Python, probably from the [Microsoft Store](https://apps.microsoft.com/s
 
 Checkout the code
 
-Create a virtual environment by running `python -m venv .venv`.
+Create a virtual environment by running `python -m venv .venv` and activate it with `.venv\Scripts\activate`.
 
 Activate environment with `.venv\Scripts\activate`.
 
